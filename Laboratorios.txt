@@ -1,0 +1,2 @@
+Construir una rama y pasarla a la rama madre.
+Hacer commit seguidos.
