@@ -1,2 +1,3 @@
-# uip-prog3
-tarea prog3
+======================================
+Programación de Computadoras III - UIP
+======================================
