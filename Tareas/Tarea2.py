@@ -16,4 +16,4 @@ velocidad = 120
 distancia = 60
 tiempo = velocidad / distancia
 print ('El tiempo a recorrer es '+str(tiempo))
-print ('El tiempo en segundos es '+str((tiempo)*60))
+print ('El tiempo en segundos es '+str((tiempo)*3600))
