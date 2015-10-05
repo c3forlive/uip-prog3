@@ -3,9 +3,9 @@
 #Numeros triangulares
 
 numero = int(input("Introduzca el numero: "))
-respuesta={}
+numeros={}
 for i in range(1,numero+1):
-	respuesta[i]=(i*(i+1)/2)
+	numeros[i]=(i*(i+1)/2)
  
-for i in respuesta:
-	print (i,respuesta[i])
+for i in numeros:
+	print (i,numeros[i])
